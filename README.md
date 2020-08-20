@@ -27,7 +27,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ananthanandanan)
-- I am currently pursuing my undergraduate in Computer Science.
+- i am currently pursuing my bachelor's degree in Computer Science
 - 🔭 I’m currently working on flutter project.
 - 🌱 I’m currently networking protocols and security aspect of things.
 - 🤝 I’m looking to collaborate on data science and deep learning projects.
