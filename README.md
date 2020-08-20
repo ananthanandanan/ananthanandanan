@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**ananthanandanan/ananthanandanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align='center'>
+  Hi there 👋 I'm K N Anantha nandanan 👨‍💻
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+ Focus on Network analysis, with interest in python-dev, problem solver and web developer.
+</p>
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/k-n-anantha-nandanan-5503841a4/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ananthan2k/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Ananthan2k">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />&nbsp;&nbsp;  
+</p>
+
+<p align='center'>
+
+![](https://komarev.com/ghpvc/?username=ananthanandanan)
+- I am currently pursuing my undergraduate in Computer Science.
+- 🔭 I’m currently working on flutter project.
+- 🌱 I’m currently networking protocols and security aspect of things.
+- 🤝 I’m looking to collaborate on data science and deep learning projects.
+
+</p>
+
+<p align='center'>
+
+  [![Ananthan2k's github stats](https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+
+</p>
