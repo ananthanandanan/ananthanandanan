@@ -32,7 +32,7 @@
 - 🌱 I’m currently networking protocols and security aspect of things.
 - 🤝 I’m looking to collaborate on data science and deep learning projects.
 
-
+- Contact me at [ananthanandanan@gmail.com](mailto:ananthanandanan@gmail.com) and or ping me on Telegram, [@Ananthan2k](https://t.me/Ananthan2k).
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=synthwave&show_icons=truecount_private=true"></a>
