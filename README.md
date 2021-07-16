@@ -32,7 +32,7 @@
 - 🌱 I’m currently diving deep into Computer networking and security aspect of it, how to build startups.
 - 🤝 I’m looking to collaborate with Networking related projects.
 - 🗼 Reach me out by email at ananthan2k@amfoss.in or ping me in <a href="https://t.me/Ananthan2k">Telegram</a>
-- 📄 Check out my CV:<a href="https://ananthan2k.me/Documents/CV.pdf">Telegram</a>
+- 📄 Check out my <a href="https://ananthan2k.me/Documents/CV.pdf">CV</a>
 
 
 <p align='center'>
