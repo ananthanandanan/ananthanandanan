@@ -28,11 +28,12 @@
 
 ![](https://komarev.com/ghpvc/?username=ananthanandanan)
 - i am currently pursuing my bachelor's degree in Computer Science
-- 🔭 I’m currently working on flutter project.
-- 🌱 I’m currently networking protocols and security aspect of things.
-- 🤝 I’m looking to collaborate on data science and deep learning projects.
+- 🔭 I’m currently working as Associate Technology Engineer at [Spoon](https://www.spoon.money/)
+- 🌱 I’m currently diving deep into Computer networking and security aspect of it, how to build startups.
+- 🤝 I’m looking to collaborate with Networking related projects.
+- 🗼 Reach me out by email at ananthan2k@amfoss.in or ping me in <a href="https://t.me/Ananthan2k">Telegram</a>
+- 📄 Check out my CV:<a href="https://ananthan2k.me/Documents/CV.pdf">Telegram</a>
 
-- Contact me at [ananthanandanan@gmail.com](mailto:ananthanandanan@gmail.com) and or ping me on Telegram, [@Ananthan2k](https://t.me/Ananthan2k).
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=synthwave&show_icons=truecount_private=true"></a>
