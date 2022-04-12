@@ -24,10 +24,10 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ananthanandanan)
-- i am currently pursuing my bachelor's degree in Computer Science
-- 🔭 I’m currently exploring in the field on Computer Network & Security, Access Control system
-- 🤝 I’m looking to opportunities in Computer Networks and Security
-- 🌱 Ask away anything related to Open-Source, Web developement, Computer Networks
+- 🌅 i'm  pursuing my bachelor's degree in Computer Science and Engineering
+- 🔭 I’m like exploring in the field on Computer Network & Security, Access Control system
+- 🤝 I’m looking for opportunities in Computer Network & Security
+- 🌱 Ask away anything related to Open-Source, Web developement, Computer Networks, Linux
 - 🗼 Reach me out by email at ananthan2k@amfoss.in or ping me in <a href="https://t.me/Ananthan2k">Telegram</a>
 - 📄 Check out my <a href="https://ananthan2k.me/Documents/CV.pdf">CV</a>
 
