@@ -33,5 +33,6 @@
 
 
 <p align='center'>
-![Stats](https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true"></a>
+
 </p>
