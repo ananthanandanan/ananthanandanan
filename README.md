@@ -32,7 +32,8 @@
 - 📄 Check out my <a href="https://ananthanandanan.github.io/Documents/CV.pdf">CV</a>
 
 
-<p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true"></a>
-
+<p align='center' style="display: inline-block;">
+<a href="#" style="padding-right: 5px"><img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true"></a>
+<a href="https://data.typeracer.com/pit/profile?user=ananthan2k&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ananthan2k" border="0" alt="TypeRacer.com scorecard for user ananthan2k"/></a>
 </p>
+
