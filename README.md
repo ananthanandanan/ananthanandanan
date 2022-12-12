@@ -24,14 +24,14 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ananthanandanan)
-- 🌅 i'm  pursuing my bachelor's degree in Computer Science and Engineering
-- 🔭 I’m like exploring in the field on Computer Network & Security, Access Control system
-- 🤝 I’m looking for opportunities in Computer Network & Security
-- 🌱 Ask away anything related to Open-Source, Web developement, Computer Networks, Linux
+- 🕹 I am a backend developer and a DevOps enthusiast.
+- 🌅 I'm  currently exploring  MLOps and Medical AI.
+- 🌱 As a backend developer, I have worked on Django, Flask, GraphQL, NodeJS, Docker, Firebase, MongoDB, PostgreSQL, etc.
+- 🌱 Ask away anything related DevOps, Linux and Python.
 - 🗼 Reach me out by email at ananthan2k@amfoss.in or ping me in <a href="https://t.me/Ananthan2k">Telegram</a>
 - 📄 Check out my <a href="https://ananthanandanan.github.io/Documents/CV.pdf">CV</a>
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=synthwave&show_icons=truecount_private=true"></a>
+![Stats](https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true)
 </p>
