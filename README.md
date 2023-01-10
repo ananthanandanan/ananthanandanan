@@ -24,9 +24,10 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ananthanandanan)
-- 🕹 I am a backend developer and a DevOps enthusiast.
+- 🕹 I'm a software engineer and tech enthusiast.
 - 🌅 I'm  currently exploring  MLOps and Medical AI.
-- 🌱 As a backend developer, I have worked on Django, Flask, GraphQL, NodeJS, Docker, Firebase, MongoDB, PostgreSQL, etc.
+- 🌱 As a backend developer, I have worked on Django, Flask, GraphQL, NodeJS, MongoDB, PostgreSQL and 
+have experience with DevOps tools like Docker, Kubernetes, Gitlab CI/CD, AWS, GCP.
 - 🌱 Ask away anything related DevOps, Linux and Python.
 - 🗼 Reach me out by email at ananthan2k@amfoss.in or ping me in <a href="https://t.me/Ananthan2k">Telegram</a>
 - 📄 Check out my <a href="https://ananthanandanan.github.io/Documents/CV.pdf">CV</a>
