@@ -1,40 +1,46 @@
-
-
 <h1 align='center'>
-  Hi there 👋 I'm K N Anantha nandanan 👨‍💻
+  Greetings! 👋 I'm K N Anantha Nandanan 👨‍💻
 </h1>
 
-
-
-
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/k-n-anantha-nandanan-5503841a4/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ananthan2k/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/Ananthan2k">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />&nbsp;&nbsp;  
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />&nbsp;&nbsp;  
 </p>
 
-
-
-![](https://komarev.com/ghpvc/?username=ananthanandanan)
-- 🕹 I'm a software engineer and tech enthusiast.
-- 🌅 I'm  currently exploring  MLOps and Medical AI.
-- 🌱 As a backend developer, I have worked on Django, Flask, GraphQL, NodeJS, MongoDB, PostgreSQL and 
-have experience with DevOps tools like Docker, Kubernetes, Gitlab CI/CD, AWS, GCP.
-- 🌱 Ask away anything related DevOps, Linux and Python.
-- 🗼 Reach me out by email at ananthan2k@amfoss.in or ping me in <a href="https://t.me/Ananthan2k">Telegram</a>
-- 📄 Check out my <a href="https://ananthanandanan.github.io/Documents/CV.pdf">CV</a>
-
-
-<p align='center' style="display: inline-block;">
-<a href="#" style="padding-right: 5px"><img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true"></a>
-<a href="https://data.typeracer.com/pit/profile?user=ananthan2k&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ananthan2k" border="0" alt="TypeRacer.com scorecard for user ananthan2k"/></a>
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=ananthanandanan&style=flat-square" alt="Profile Views" />
 </p>
 
+---
+
+I'm a passionate software engineer and technology enthusiast. My current areas of interest include Language Learning Models (LLM), MLOps, and innovations in Medical AI.
+
+As a seasoned developer, I have a rich background in:
+
+- Web development with **Django**, **GraphQL**, **NodeJS**
+- Database management using **MongoDB** and **PostgreSQL**
+- Proficiency in **DevOps** practices and tools such as **Docker**, **Kubernetes**, **GitLab CI/CD**, and cloud services like **AWS** and **GCP**
+
+I'm always open to discussing DevOps, Linux, Python, or any tech-related topics. Feel free to reach out!
+
+📧 Email: [ananthanandanan@gmail.com](mailto:ananthanandanan@gmail.com)  
+💬 Telegram: [Ananthan2k](https://t.me/Ananthan2k)
+
+<p align='center'>
+  <a href="https://github.com/ananthanandanan">
+    <img src="https://github-readme-stats.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://data.typeracer.com/pit/profile?user=ananthan2k">
+    <img src="https://data.typeracer.com/misc/badge?user=ananthan2k" alt="TypeRacer.com scorecard for user ananthan2k" />
+  </a>
+</p>
+
+---
