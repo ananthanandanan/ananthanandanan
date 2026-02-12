@@ -22,7 +22,7 @@
 
 I’m a Software Engineer blending **Product Management** with **Pragmatic Backend Engineering**. I focus on shipping tools that are useful, fast, and self-hosted.
 
-- 🏗️ **Lead Engineer at QuestCraft**: Building an AI-first EdTech platform designed for the next generation of learners.
+- 🏗️ **Lead Engineer at QuestCraft**: Building an AI-first EdTech platform for institutions and teachers.
 - 🧪 **The Construct Lab**: My R&D space for experimental software and rapid prototyping.
 - ⌨️ **Touch Typing Enthusiast**: Because your code should move as fast as your thoughts.
 
