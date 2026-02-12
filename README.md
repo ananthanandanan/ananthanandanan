@@ -39,7 +39,7 @@ I’m a Software Engineer blending **Product Management** with **Pragmatic Backe
 ## 📦 Shipped & Side Projects
 
 - **[JSON to Many](https://github.com/ananthanandanan/Json_To_Many)** 📦: My first package published on **PyPI**. A utility designed to transform JSON data into various formats with ease.
-- **[Regexplain](https://github.com/ananthanandanan/regexplain)**: A developer tool that translates cryptic Regex patterns into plain, human-readable English.
+- **[Reg-Exp-Lain](https://github.com/ananthanandanan/Reg-Exp-Lain)**: An interactive regular expression visualizer built with Next.js and React Flow—visualize regex as flow diagrams and get plain-English explanations.
 - **Jodidaar (Desi Connections)**: An Indian-themed version of the NYT Connections game. (Current status: _Private Beta/Internal_).
 
 ## 📊 Stats & Speed
