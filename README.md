@@ -5,6 +5,7 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/Coolify-6366f1?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -19,7 +20,7 @@
 
 ## 🚀 Currently Building
 
-I’m a Software Engineer blending **Product Management** with **Backend Engineering**. I focus on building tools that are useful, fast, and self-hosted.
+I’m a Software Engineer blending **Product Management** with **Pragmatic Backend Engineering**. I focus on shipping tools that are useful, fast, and self-hosted.
 
 - 🏗️ **Lead Engineer at QuestCraft**: Building an AI-first EdTech platform designed for the next generation of learners.
 - 🧪 **The Construct Lab**: My R&D space for experimental software and rapid prototyping.
@@ -27,13 +28,13 @@ I’m a Software Engineer blending **Product Management** with **Backend Enginee
 
 ## 🛠️ Tech Stack & Workflow
 
-| Focus           | Technologies                                    |
-| :-------------- | :---------------------------------------------- |
-| **Backend**     | Python, FastAPI, Django, TortoiseORM            |
-| **Async Tasks** | Celery, RabbitMQ, Redis                         |
-| **Deployment**  | Docker Compose, Coolify, Self-hosted VPS        |
-| **AI/ML**       | LangChain, Vector Search, LLM Integration       |
-| **Product**     | Product Management, System Architecture, DevOps |
+| Focus              | Technologies                                    |
+| :----------------- | :---------------------------------------------- |
+| **Backend**        | Python, FastAPI, Django, TortoiseORM            |
+| **Async Tasks**    | Celery, RabbitMQ, Redis                         |
+| **Infrastructure** | Docker Compose, Coolify, Self-hosted VPS        |
+| **AI/ML**          | LangChain, Vector Search, LLM Integration       |
+| **Product**        | Product Management, System Architecture, DevOps |
 
 ## 📦 Shipped & Side Projects
 
