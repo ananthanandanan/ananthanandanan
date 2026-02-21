@@ -28,13 +28,12 @@ I’m a Software Engineer blending **Product Management** with **Pragmatic Backe
 
 ## 🛠️ Tech Stack & Workflow
 
-| Focus              | Technologies                                    |
-| :----------------- | :---------------------------------------------- |
-| **Backend**        | Python, FastAPI, Django, TortoiseORM            |
-| **Async Tasks**    | Celery, RabbitMQ, Redis                         |
-| **Infrastructure** | Docker Compose, Coolify, Self-hosted VPS        |
-| **AI/ML**          | LangChain, Vector Search, LLM Integration       |
-| **Product**        | Product Management, System Architecture, DevOps |
+| Focus                   | Technologies                                                        |
+| :---------------------- | :------------------------------------------------------------------ |
+| **Backend**             | Python, Django (DRF), FastAPI, TypeScript, PostgreSQL, Pydantic     |
+| **Distributed Systems** | Celery, RabbitMQ, Redis, Nginx, Traefik                             |
+| **Infrastructure**      | Docker, Coolify, MinIO, Linux (Ubuntu/Debian)                       |
+| **AI / LLMOps**         | LangChain, LiteLLM, ChromaDB, pgvector, Langfuse, Promptfoo, MLflow |
 
 ## 📦 Shipped & Side Projects
 
