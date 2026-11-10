@@ -7,5 +7,3 @@
 Backend engineer who ships. I build pragmatic Python systems (Django, FastAPI, Celery) and the agent harnesses that sit on top of them. Right now I work on agent infrastructure as a Member of Technical Staff at [TenSixty](https://www.tensixty.bio). On the side I run [Construct Lab](https://github.com/Construct-Lab), where [Reigner](https://github.com/Construct-Lab/reigner) lives, build small things like [8mm](https://8mm.ananthanandanan.com), and [write](https://ananthanandanan.com) about agents, harness engineering, and self-hosting.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/plate_dark.svg"><img alt="Last year of GitHub contributions drawn as a 96-well assay plate" src="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/plate_light.svg" width="100%"></picture>
-
-<sub>Assets are generated daily by <a href="tools/build.py"><code>tools/build.py</code></a> via GitHub Actions. No third-party stat services.</sub>
