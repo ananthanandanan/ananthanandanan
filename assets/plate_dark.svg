@@ -173,7 +173,7 @@
 <circle cx="268.4" cy="215.6" r="5.6" fill="#1f6f43"/>
 <circle cx="283.0" cy="128.0" r="5.6" fill="#1f6f43"/>
 <circle cx="283.0" cy="142.6" r="5.6" fill="#1f6f43"/>
-<circle cx="283.0" cy="157.2" r="5.6" fill="#2ea043"/>
+<circle cx="283.0" cy="157.2" r="5.6" fill="#1f6f43"/>
 <circle cx="283.0" cy="171.8" r="5.6" fill="#2ea043"/>
 <circle cx="283.0" cy="186.4" r="5.6" fill="#56d364"/>
 <circle cx="283.0" cy="201.0" r="5.6" fill="#253a2e"/>
@@ -429,11 +429,10 @@
 <circle cx="808.6" cy="171.8" r="5.1" fill="none" stroke="#262c34"/>
 <circle cx="808.6" cy="186.4" r="5.1" fill="none" stroke="#262c34"/>
 <circle cx="808.6" cy="201.0" r="5.1" fill="none" stroke="#262c34"/>
-<circle cx="808.6" cy="215.6" r="5.1" fill="none" stroke="#262c34"/>
+<circle cx="808.6" cy="215.6" r="5.6" fill="#253a2e"/>
 <circle cx="823.2" cy="128.0" r="5.6" fill="#1f6f43"/>
-<circle cx="823.2" cy="142.6" r="5.6" fill="#253a2e"/>
+<circle cx="823.2" cy="142.6" r="5.1" fill="none" stroke="#262c34"/>
 <circle cx="823.2" cy="157.2" r="5.1" fill="none" stroke="#262c34"/>
-<circle cx="823.2" cy="171.8" r="5.1" fill="none" stroke="#262c34"/>
 <rect x="57" y="118" width="14" height="108" rx="7" fill="#56d4dd" fill-opacity=".12" stroke="#56d4dd" stroke-opacity=".5"><animateTransform attributeName="transform" type="translate" from="0 0" to="774 0" dur="9s" repeatCount="indefinite"/></rect>
 <text x="34" y="304" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8b949e">empty</text>
 <circle cx="94" cy="300" r="5.6" fill="#253a2e"/>
@@ -442,5 +441,5 @@
 <circle cx="142" cy="300" r="5.6" fill="#56d364"/>
 <circle cx="158" cy="300" r="5.6" fill="#aff5b4"/>
 <text x="174" y="304" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8b949e">saturated</text>
-<text x="856" y="304" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8b949e" text-anchor="end">read 2026-11-11 · auto-refreshed by gh actions</text>
+<text x="856" y="304" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8b949e" text-anchor="end">read 2026-11-10 · auto-refreshed by gh actions</text>
 </svg>
