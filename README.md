@@ -1,63 +1,11 @@
-<h1 align='center'>
-  Greetings! 👋 I'm K N Anantha Nandanan 👨‍💻
-</h1>
+<a href="https://ananthanandanan.com">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/trace_dark.svg"><img alt="Career trace of K N Anantha Nandanan: Member of Technical Staff at TenSixty, previously Lead Engineer &amp; Product Lead at QuestCraft" src="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/trace_light.svg" width="100%"></picture>
+</a>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Coolify-6366f1?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
-</p>
+<p align="left"><a href="https://ananthanandanan.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_web_dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_web_light.svg" width="24%"></picture></a><a href="https://www.linkedin.com/in/de-blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_linkedin_dark.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_linkedin_light.svg" width="24%"></picture></a><a href="https://x.com/Ananthan2k"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_x_dark.svg"><img alt="X" src="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_x_light.svg" width="24%"></picture></a><a href="mailto:ananthanandanan@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_email_dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/link_email_light.svg" width="24%"></picture></a></p>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=ananthanandanan&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+Backend engineer who ships. I build pragmatic Python systems (Django, FastAPI, Celery) and the agent harnesses that sit on top of them. Right now I work on agent infrastructure as a Member of Technical Staff at [TenSixty](https://www.tensixty.bio). On the side I run [Construct Lab](https://github.com/Construct-Lab), where [Reigner](https://github.com/Construct-Lab/reigner) lives, build small things like [8mm](https://8mm.ananthanandanan.com), and [write](https://ananthanandanan.com) about agents, harness engineering, and self-hosting.
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/plate_dark.svg"><img alt="Last year of GitHub contributions drawn as a 96-well assay plate" src="https://raw.githubusercontent.com/ananthanandanan/ananthanandanan/master/assets/plate_light.svg" width="100%"></picture>
 
-## 🚀 Currently Building
-
-I’m a Software Engineer blending **Product Management** with **Pragmatic Backend Engineering**. I focus on shipping tools that are useful, fast, and self-hosted.
-
-- 🏗️ **Lead Engineer at QuestCraft**: Building an AI-first EdTech platform for institutions and teachers.
-- 🧪 **The Construct Lab**: My R&D space for experimental software and rapid prototyping.
-- ⌨️ **Touch Typing Enthusiast**: Because your code should move as fast as your thoughts.
-
-## 🛠️ Tech Stack & Workflow
-
-| Focus                   | Technologies                                                        |
-| :---------------------- | :------------------------------------------------------------------ |
-| **Backend**             | Python, Django (DRF), FastAPI, TypeScript, PostgreSQL, Pydantic     |
-| **Distributed Systems** | Celery, RabbitMQ, Redis, Nginx, Traefik                             |
-| **Infrastructure**      | Docker, Coolify, MinIO, Linux (Ubuntu/Debian)                       |
-| **AI / LLMOps**         | LangChain, LiteLLM, ChromaDB, pgvector, Langfuse, Promptfoo, MLflow |
-
-## 📦 Shipped & Side Projects
-
-- **[JSON to Many](https://github.com/ananthanandanan/Json_To_Many)** 📦: My first package published on **PyPI**. A utility designed to transform JSON data into various formats with ease.
-- **[Reg-Exp-Lain](https://github.com/ananthanandanan/Reg-Exp-Lain)**: An interactive regular expression visualizer built with Next.js and React Flow—visualize regex as flow diagrams and get plain-English explanations.
-- **Jodidaar (Desi Connections)**: An Indian-themed version of the NYT Connections game. (Current status: _Private Beta/Internal_).
-
-## 📊 Stats & Speed
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ananthanandanan&theme=onedark&show_icons=true&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthanandanan&theme=onedark" alt="Streak" />
-  <br/>
-  <a href="https://monkeytype.com/profile/DE__BLANK__">
-    <img src="https://raw.githubusercontent.com/ananthanandanan/monkey-type-readme/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-  </a>
-</div>
-
----
-
-## 📫 Let's Connect
-
-I’m always interested in discussing **AI-native products**, **distributed systems**, or **self-hosting** setups.
-
-📧 **Email:** [ananthanandanan@gmail.com](mailto:ananthanandanan@gmail.com)  
-💬 **Telegram:** [@Ananthan2k](https://t.me/Ananthan2k)
+<sub>Assets are generated daily by <a href="tools/build.py"><code>tools/build.py</code></a> via GitHub Actions. No third-party stat services.</sub>

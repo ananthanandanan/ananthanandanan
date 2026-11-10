@@ -1,0 +1,53 @@
+# Rebuilds the profile SVGs (career trace, contribution plate, link buttons).
+#
+# tools/build.py fetches the contribution calendar from the GitHub GraphQL API,
+# caches it in cache/calendar.json, and regenerates everything in assets/.
+# Only commits when an SVG actually changed.
+name: Build profile assets
+
+on:
+  schedule:
+    - cron: "17 1 * * *"   # daily, 06:47 IST
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ["tools/**", ".github/workflows/build.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build SVGs
+        env:
+          # The built-in token only sees public contributions. Add a STATS_TOKEN
+          # secret (classic PAT with read:user) to include private ones.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 tools/build.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets cache
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile assets"
+          git pull --rebase origin master
+          git push origin HEAD:master

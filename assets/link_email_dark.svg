@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="40" viewBox="0 0 212 40">
+<rect x=".5" y=".5" width="211" height="39" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="14" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#e3b341">POST</text>
+<text x="52" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#e6edf3">inbox/ananthan</text>
+</svg>

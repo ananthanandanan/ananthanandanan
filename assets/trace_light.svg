@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="504" viewBox="0 0 880 504">
+<rect x=".5" y=".5" width="879" height="503" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="40" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">K N Anantha Nandanan</text>
+<text x="24" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#656d76">trace <tspan fill="#0a9396">career</tspan>  ·  9 spans  ·  status <tspan fill="#1a7f37">OK</tspan>  ·  service <tspan fill="#1f2328">backend / agents / infra</tspan></text>
+<rect x="684" y="26" width="172" height="26" rx="13" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="700" cy="39" r="4" fill="#1a7f37"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="844" y="43" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#1f2328" text-anchor="end">MTS @ TenSixty</text>
+<text x="856" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">updated 2026-11-11</text>
+<line x1="24" y1="96" x2="856" y2="96" stroke="#d0d7de"/>
+<text x="24" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76">SPAN</text>
+<line x1="361.6" y1="96" x2="361.6" y2="430" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text x="361.6" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76" text-anchor="middle">2020</text>
+<line x1="424.3" y1="96" x2="424.3" y2="430" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text x="424.3" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76" text-anchor="middle">2021</text>
+<line x1="487.0" y1="96" x2="487.0" y2="430" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text x="487.0" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76" text-anchor="middle">2022</text>
+<line x1="549.6" y1="96" x2="549.6" y2="430" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text x="549.6" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76" text-anchor="middle">2023</text>
+<line x1="612.2" y1="96" x2="612.2" y2="430" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text x="612.2" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76" text-anchor="middle">2024</text>
+<line x1="675.0" y1="96" x2="675.0" y2="430" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text x="675.0" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76" text-anchor="middle">2025</text>
+<line x1="737.6" y1="96" x2="737.6" y2="430" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text x="737.6" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76" text-anchor="middle">2026</text>
+<rect x="1" y="104" width="878" height="36" fill="#f6f8fa" opacity=".6"/>
+<text x="24" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">ananthanandanan</text>
+<text x="24" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">github.join</text>
+<rect x="334.6" y="112" width="456.8" height="14" rx="3" fill="#8c959f" opacity="0.45"/>
+<rect x="788.4" y="112" width="3" height="14" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="328.6" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">7.3y · running</text>
+<path d="M30 140V154H38" fill="none" stroke="#afb8c1"/>
+<text x="42" y="154" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">work.traboda</text>
+<text x="42" y="168" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">role=llm_researcher·backend</text>
+<rect x="601.7" y="148" width="47.0" height="14" rx="3" fill="#bf8700" opacity="0.95"/>
+<text x="654.7" y="159" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="start">9mo</text>
+<rect x="1" y="176" width="878" height="36" fill="#f6f8fa" opacity=".6"/>
+<path d="M30 176V190H38" fill="none" stroke="#afb8c1"/>
+<text x="42" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">work.questcraft</text>
+<text x="42" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">role=lead_engineer·product_lead</text>
+<rect x="648.7" y="184" width="140.8" height="14" rx="3" fill="#bf8700" opacity="0.95"/>
+<text x="795.5" y="195" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="start">2.2y</text>
+<path d="M30 212V226H38" fill="none" stroke="#afb8c1"/>
+<text x="42" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">work.tensixty</text>
+<text x="42" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">role=mts · agents·infra</text>
+<rect x="789.7" y="220" width="6.0" height="14" rx="3" fill="#bf8700" opacity="0.95"/>
+<rect x="792.7" y="220" width="3" height="14" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="783.7" y="231" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">10d · running</text>
+<rect x="1" y="248" width="878" height="36" fill="#f6f8fa" opacity=".6"/>
+<path d="M30 248V262H38" fill="none" stroke="#afb8c1"/>
+<text x="42" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">oss.json-to-many</text>
+<text x="42" y="276" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">pypi · python</text>
+<rect x="641.5" y="256" width="121.1" height="14" rx="3" fill="#0a9396" opacity="0.95"/>
+<text x="768.6" y="267" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="start">1.9y</text>
+<path d="M30 284V298H38" fill="none" stroke="#afb8c1"/>
+<text x="42" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">lab.construct</text>
+<text x="42" y="312" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">org · r&amp;d</text>
+<rect x="744.4" y="292" width="47.0" height="14" rx="3" fill="#8250df" opacity="0.95"/>
+<rect x="788.4" y="292" width="3" height="14" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="738.4" y="303" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">9mo · running</text>
+<rect x="1" y="320" width="878" height="36" fill="#f6f8fa" opacity=".6"/>
+<path d="M48 320V334H56" fill="none" stroke="#afb8c1"/>
+<text x="60" y="334" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">reigner</text>
+<text x="60" y="348" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">pypi · agent harness</text>
+<rect x="759.0" y="328" width="32.4" height="14" rx="3" fill="#0a9396" opacity="0.95"/>
+<rect x="788.4" y="328" width="3" height="14" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="753.0" y="339" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">6mo · running</text>
+<path d="M30 356V370H38" fill="none" stroke="#afb8c1"/>
+<text x="42" y="370" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">oss.8mm</text>
+<text x="42" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">letterboxd rating calc · js</text>
+<rect x="789.4" y="364" width="6.0" height="14" rx="3" fill="#0a9396" opacity="0.95"/>
+<rect x="792.4" y="364" width="3" height="14" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="783.4" y="375" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">12d · running</text>
+<rect x="1" y="392" width="878" height="36" fill="#f6f8fa" opacity=".6"/>
+<path d="M30 392V406H38" fill="none" stroke="#afb8c1"/>
+<text x="42" y="406" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">play.typefeud</text>
+<text x="42" y="420" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">typescript</text>
+<rect x="789.5" y="400" width="6.0" height="14" rx="3" fill="#8250df" opacity="0.95"/>
+<rect x="792.5" y="400" width="3" height="14" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="783.5" y="411" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">11d · running</text>
+<line x1="24" y1="442" x2="856" y2="442" stroke="#d0d7de"/>
+<rect x="24" y="458" width="91" height="22" rx="4" fill="#f6f8fa" stroke="#d0d7de"/><text x="33" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="73" lengthAdjust="spacingAndGlyphs"><tspan fill="#bf8700">lang</tspan><tspan fill="#afb8c1">=</tspan><tspan fill="#1f2328">python</tspan></text>
+<rect x="123" y="458" width="137" height="22" rx="4" fill="#f6f8fa" stroke="#d0d7de"/><text x="132" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="119" lengthAdjust="spacingAndGlyphs"><tspan fill="#bf8700">web</tspan><tspan fill="#afb8c1">=</tspan><tspan fill="#1f2328">django·fastapi</tspan></text>
+<rect x="267" y="458" width="157" height="22" rx="4" fill="#f6f8fa" stroke="#d0d7de"/><text x="276" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="139" lengthAdjust="spacingAndGlyphs"><tspan fill="#bf8700">async</tspan><tspan fill="#afb8c1">=</tspan><tspan fill="#1f2328">celery·rabbitmq</tspan></text>
+<rect x="432" y="458" width="223" height="22" rx="4" fill="#f6f8fa" stroke="#d0d7de"/><text x="441" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="205" lengthAdjust="spacingAndGlyphs"><tspan fill="#bf8700">infra</tspan><tspan fill="#afb8c1">=</tspan><tspan fill="#1f2328">docker·coolify·cloudflare</tspan></text>
+<rect x="663" y="458" width="183" height="22" rx="4" fill="#f6f8fa" stroke="#d0d7de"/><text x="672" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="165" lengthAdjust="spacingAndGlyphs"><tspan fill="#bf8700">llm</tspan><tspan fill="#afb8c1">=</tspan><tspan fill="#1f2328">langchain·claude-code</tspan></text>
+</svg>
