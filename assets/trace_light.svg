@@ -2,9 +2,9 @@
 <rect x=".5" y=".5" width="879" height="503" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <text x="24" y="40" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">K N Anantha Nandanan</text>
 <text x="24" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#656d76">trace <tspan fill="#0a9396">career</tspan>  ·  9 spans  ·  status <tspan fill="#1a7f37">OK</tspan>  ·  service <tspan fill="#1f2328">backend / agents / infra</tspan></text>
-<rect x="684" y="26" width="172" height="26" rx="13" fill="#f6f8fa" stroke="#d0d7de"/>
-<circle cx="700" cy="39" r="4" fill="#1a7f37"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
-<text x="844" y="43" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#1f2328" text-anchor="end">MTS @ TenSixty</text>
+<rect x="561" y="26" width="295" height="26" rx="13" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="577" cy="39" r="4" fill="#1a7f37"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="844" y="43" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#1f2328" text-anchor="end" textLength="251" lengthAdjust="spacingAndGlyphs">Member of Technical Staff @ Prevalence</text>
 <text x="856" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">updated 2026-11-11</text>
 <line x1="24" y1="96" x2="856" y2="96" stroke="#d0d7de"/>
 <text x="24" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#656d76">SPAN</text>
@@ -40,8 +40,8 @@
 <rect x="648.7" y="184" width="140.8" height="14" rx="3" fill="#bf8700" opacity="0.95"/>
 <text x="795.5" y="195" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="start">2.2y</text>
 <path d="M30 212V226H38" fill="none" stroke="#afb8c1"/>
-<text x="42" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">work.tensixty</text>
-<text x="42" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">role=mts · agents·infra</text>
+<text x="42" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">work.prevalence</text>
+<text x="42" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76">role=member_of_technical_staff · pocketmd</text>
 <rect x="789.7" y="220" width="6.0" height="14" rx="3" fill="#bf8700" opacity="0.95"/>
 <rect x="792.7" y="220" width="3" height="14" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
 <text x="783.7" y="231" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#656d76" text-anchor="end">10d · running</text>

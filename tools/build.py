@@ -32,13 +32,14 @@ SPANS = [
     (0, USER, "github.join", "2019-07-28", None, "root"),
     (1, "work.traboda", "role=llm_researcher·backend", "2023-11-01", "2024-08-01", "work"),
     (1, "work.questcraft", "role=lead_engineer·product_lead", "2024-08-01", "2026-10-31", "work"),
-    (1, "work.tensixty", "role=mts · agents·infra", "2026-11-01", None, "work"),  # TODO: confirm start
+    (1, "work.prevalence", "role=member_of_technical_staff · pocketmd", "2026-11-01", None, "work"),  # TODO: confirm start
     (1, "oss.json-to-many", "pypi · python", "2024-06-20", "2026-05-27", "oss"),
     (1, "lab.construct", "org · r&d", "2026-02-10", None, "play"),
     (2, "reigner", "pypi · agent harness", "2026-05-06", None, "oss"),
     (1, "oss.8mm", "letterboxd rating calc · js", "2026-10-30", None, "oss"),
     (1, "play.typefeud", "typescript", "2026-10-31", None, "play"),
 ]
+NOW = "Member of Technical Staff @ Prevalence"  # status pill in the trace header
 ATTRS = [("lang", "python"), ("web", "django·fastapi"), ("async", "celery·rabbitmq"),
          ("infra", "docker·coolify·cloudflare"), ("llm", "langchain·claude-code")]
 LINKS = [  # name, method, label, url
@@ -89,15 +90,17 @@ def trace(t, today):
     lx, gx0, gx1 = 24, 330, 800
     X = lambda day: gx0 + (day - t0).days / (t1 - t0).days * (gx1 - gx0)
     RH, top = 36, 96
+    pill_w = len(NOW) * 6.6 + 44
     H = top + 14 + len(SPANS) * RH + 70
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
          f'<rect x=".5" y=".5" width="{W-1}" height="{H-1}" rx="12" fill="{t["bg"]}" stroke="{t["line"]}"/>',
          f'<text x="{lx}" y="40" font-family="{SANS}" font-size="20" font-weight="600" fill="{t["txt"]}">K N Anantha Nandanan</text>',
          f'<text x="{lx}" y="62" font-family="{MONO}" font-size="12" fill="{t["muted"]}">trace <tspan fill="{t["oss"]}">career</tspan>'
          f'  ·  {len(SPANS)} spans  ·  status <tspan fill="{t["ok"]}">OK</tspan>  ·  service <tspan fill="{t["txt"]}">backend / agents / infra</tspan></text>',
-         f'<rect x="{W-196}" y="26" width="172" height="26" rx="13" fill="{t["panel"]}" stroke="{t["line"]}"/>',
-         f'<circle cx="{W-180}" cy="39" r="4" fill="{t["ok"]}"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>',
-         f'<text x="{W-36}" y="43" font-family="{MONO}" font-size="11" fill="{t["txt"]}" text-anchor="end">MTS @ TenSixty</text>',
+         f'<rect x="{W-24-pill_w:.0f}" y="26" width="{pill_w:.0f}" height="26" rx="13" fill="{t["panel"]}" stroke="{t["line"]}"/>',
+         f'<circle cx="{W-8-pill_w:.0f}" cy="39" r="4" fill="{t["ok"]}"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>',
+         f'<text x="{W-36}" y="43" font-family="{MONO}" font-size="11" fill="{t["txt"]}" text-anchor="end"'
+         f' textLength="{len(NOW)*6.6:.0f}" lengthAdjust="spacingAndGlyphs">{e(NOW)}</text>',
          f'<text x="{W-24}" y="72" font-family="{MONO}" font-size="10" fill="{t["muted"]}" text-anchor="end">updated {today:%Y-%m-%d}</text>',
          f'<line x1="{lx}" y1="{top}" x2="{W-24}" y2="{top}" stroke="{t["line"]}"/>',
          f'<text x="{lx}" y="{top-8}" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">SPAN</text>']
