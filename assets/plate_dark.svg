@@ -43,7 +43,7 @@
 <text x="388.8" y="60" fill="#c0c000">P</text>
 <text x="398.4" y="60" fill="#15c015">S</text>
 </g>
-<text x="24" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">PLATE <tspan fill="#e6edf3">gh-activity · 53×7</tspan>   ·   readout <tspan fill="#e6edf3">contributions/day</tspan>   ·   total <tspan fill="#e3b341">959</tspan>   ·   peak <tspan fill="#e3b341">39</tspan></text>
+<text x="24" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">PLATE <tspan fill="#e6edf3">gh-activity · 53×7</tspan>   ·   readout <tspan fill="#e6edf3">contributions/day</tspan>   ·   total <tspan fill="#e3b341">960</tspan>   ·   peak <tspan fill="#e3b341">39</tspan></text>
 <text x="46" y="132.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="middle">A</text>
 <text x="46" y="146.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="middle">B</text>
 <text x="46" y="161.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="middle">C</text>
@@ -173,7 +173,7 @@
 <circle cx="268.4" cy="215.6" r="5.6" fill="#1f6f43"/>
 <circle cx="283.0" cy="128.0" r="5.6" fill="#1f6f43"/>
 <circle cx="283.0" cy="142.6" r="5.6" fill="#1f6f43"/>
-<circle cx="283.0" cy="157.2" r="5.6" fill="#2ea043"/>
+<circle cx="283.0" cy="157.2" r="5.6" fill="#1f6f43"/>
 <circle cx="283.0" cy="171.8" r="5.6" fill="#2ea043"/>
 <circle cx="283.0" cy="186.4" r="5.6" fill="#56d364"/>
 <circle cx="283.0" cy="201.0" r="5.6" fill="#253a2e"/>
@@ -429,9 +429,9 @@
 <circle cx="808.6" cy="171.8" r="5.1" fill="none" stroke="#262c34"/>
 <circle cx="808.6" cy="186.4" r="5.1" fill="none" stroke="#262c34"/>
 <circle cx="808.6" cy="201.0" r="5.1" fill="none" stroke="#262c34"/>
-<circle cx="808.6" cy="215.6" r="5.1" fill="none" stroke="#262c34"/>
+<circle cx="808.6" cy="215.6" r="5.6" fill="#253a2e"/>
 <circle cx="823.2" cy="128.0" r="5.6" fill="#1f6f43"/>
-<circle cx="823.2" cy="142.6" r="5.6" fill="#253a2e"/>
+<circle cx="823.2" cy="142.6" r="5.1" fill="none" stroke="#262c34"/>
 <circle cx="823.2" cy="157.2" r="5.1" fill="none" stroke="#262c34"/>
 <circle cx="823.2" cy="171.8" r="5.6" fill="#1f6f43"/>
 <rect x="57" y="118" width="14" height="108" rx="7" fill="#56d4dd" fill-opacity=".12" stroke="#56d4dd" stroke-opacity=".5"><animateTransform attributeName="transform" type="translate" from="0 0" to="774 0" dur="9s" repeatCount="indefinite"/></rect>
