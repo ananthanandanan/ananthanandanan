@@ -5,7 +5,7 @@
 <rect x="561" y="26" width="295" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
 <circle cx="577" cy="39" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
 <text x="844" y="43" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#e6edf3" text-anchor="end" textLength="251" lengthAdjust="spacingAndGlyphs">Member of Technical Staff @ Prevalence</text>
-<text x="856" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">updated 2026-11-12</text>
+<text x="856" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">updated 2026-11-13</text>
 <line x1="24" y1="96" x2="856" y2="96" stroke="#30363d"/>
 <text x="24" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8b949e">SPAN</text>
 <line x1="361.6" y1="96" x2="361.6" y2="430" stroke="#30363d" stroke-dasharray="2 4"/>
@@ -25,8 +25,8 @@
 <rect x="1" y="104" width="878" height="36" fill="#161b22" opacity=".6"/>
 <text x="24" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">ananthanandanan</text>
 <text x="24" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e">github.join</text>
-<rect x="334.6" y="112" width="457.0" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
-<rect x="788.6" y="112" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<rect x="334.6" y="112" width="457.1" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
+<rect x="788.8" y="112" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
 <text x="328.6" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">7.3y · running</text>
 <path d="M30 140V154H38" fill="none" stroke="#484f58"/>
 <text x="42" y="154" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">work.traboda</text>
@@ -44,7 +44,7 @@
 <text x="42" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e">role=member_of_technical_staff · pocketmd</text>
 <rect x="789.7" y="220" width="6.0" height="14" rx="3" fill="#e3b341" opacity="0.95"/>
 <rect x="792.7" y="220" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
-<text x="783.7" y="231" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">11d · running</text>
+<text x="783.7" y="231" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">12d · running</text>
 <rect x="1" y="248" width="878" height="36" fill="#161b22" opacity=".6"/>
 <path d="M30 248V262H38" fill="none" stroke="#484f58"/>
 <text x="42" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">oss.json-to-many</text>
@@ -54,29 +54,29 @@
 <path d="M30 284V298H38" fill="none" stroke="#484f58"/>
 <text x="42" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">lab.construct</text>
 <text x="42" y="312" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e">org · r&amp;d</text>
-<rect x="744.4" y="292" width="47.2" height="14" rx="3" fill="#bc8cff" opacity="0.95"/>
-<rect x="788.6" y="292" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<rect x="744.4" y="292" width="47.3" height="14" rx="3" fill="#bc8cff" opacity="0.95"/>
+<rect x="788.8" y="292" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
 <text x="738.4" y="303" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">9mo · running</text>
 <rect x="1" y="320" width="878" height="36" fill="#161b22" opacity=".6"/>
 <path d="M48 320V334H56" fill="none" stroke="#484f58"/>
 <text x="60" y="334" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">reigner</text>
 <text x="60" y="348" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e">pypi · agent harness</text>
-<rect x="759.0" y="328" width="32.6" height="14" rx="3" fill="#56d4dd" opacity="0.95"/>
-<rect x="788.6" y="328" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<rect x="759.0" y="328" width="32.8" height="14" rx="3" fill="#56d4dd" opacity="0.95"/>
+<rect x="788.8" y="328" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
 <text x="753.0" y="339" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">6mo · running</text>
 <path d="M30 356V370H38" fill="none" stroke="#484f58"/>
 <text x="42" y="370" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">oss.8mm</text>
 <text x="42" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e">letterboxd rating calc · js</text>
 <rect x="789.4" y="364" width="6.0" height="14" rx="3" fill="#56d4dd" opacity="0.95"/>
 <rect x="792.4" y="364" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
-<text x="783.4" y="375" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">13d · running</text>
+<text x="783.4" y="375" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">14d · running</text>
 <rect x="1" y="392" width="878" height="36" fill="#161b22" opacity=".6"/>
 <path d="M30 392V406H38" fill="none" stroke="#484f58"/>
 <text x="42" y="406" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">play.typefeud</text>
 <text x="42" y="420" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e">typescript</text>
 <rect x="789.5" y="400" width="6.0" height="14" rx="3" fill="#bc8cff" opacity="0.95"/>
 <rect x="792.5" y="400" width="3" height="14" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
-<text x="783.5" y="411" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">12d · running</text>
+<text x="783.5" y="411" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e" text-anchor="end">13d · running</text>
 <line x1="24" y1="442" x2="856" y2="442" stroke="#30363d"/>
 <rect x="24" y="458" width="91" height="22" rx="4" fill="#161b22" stroke="#30363d"/><text x="33" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="73" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3b341">lang</tspan><tspan fill="#484f58">=</tspan><tspan fill="#e6edf3">python</tspan></text>
 <rect x="123" y="458" width="137" height="22" rx="4" fill="#161b22" stroke="#30363d"/><text x="132" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="119" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3b341">web</tspan><tspan fill="#484f58">=</tspan><tspan fill="#e6edf3">django·fastapi</tspan></text>
